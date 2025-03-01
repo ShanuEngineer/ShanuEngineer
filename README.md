@@ -12,7 +12,7 @@
 - **Cloud Services:** AWS, Azure, Google Cloud
 - **Others:** Microservices, REST APIs, GraphQL, and more!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanuEngineer&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🛠️ Technologies & Tools:
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat&logo=java&logoColor=black)
