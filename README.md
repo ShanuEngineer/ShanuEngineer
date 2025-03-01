@@ -12,7 +12,8 @@
 - **Cloud Services:** AWS, Azure, Google Cloud
 - **Others:** Microservices, REST APIs, GraphQL, and more!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanuEngineer&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanuEngineer&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 
 ## 🛠️ Technologies & Tools:
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat&logo=java&logoColor=black)
@@ -30,4 +31,5 @@
 - I’ve also worked on architectural design projects involving **canvas-based drawing** and **3D models**.
 
 ## 📈 GitHub Activity:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanuEngineer&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShanuEngineer&layout=compact&theme=radical&cache_seconds=86400)
+
