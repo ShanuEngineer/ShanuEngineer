@@ -22,9 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
 
-## 💬 Let's Connect!
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/shanushanu/)
-
 ## 🎮 Fun Facts:
 - I’m a **huge fan of tech innovations** and **problem-solving**.
 - I enjoy **painting Christmas ornaments** in my free time.
